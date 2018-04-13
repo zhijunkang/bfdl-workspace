@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.jpa.shwo-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.shwo-sql'"
+  },
+  {
+    "name": "kang.random.string",
+    "type": "java.lang.String",
+    "description": "A description for 'kang.random.string'"
+  }
+]}
